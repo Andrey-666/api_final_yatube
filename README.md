@@ -40,8 +40,15 @@
 
  
 
- 
+## Стек технологий:
 
+- Python 3
+- Django 2.2
+- Djangorestframework
+- SimpleJwt
+- Gunicorn
+- SQLite
+- Git
  
 
 # **Как запустить проект:** 
@@ -89,3 +96,9 @@ pip install -r requirements.txt
  
 
 python3 manage.py migrate 
+
+
+***
+### Об авторе  
+Кузнецов Андрей    
+<andrey.66677@yandex.ru>
